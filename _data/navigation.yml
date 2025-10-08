@@ -1,0 +1,25 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Projects"
+    url: /projects/
+    children:
+      - title: "Home Automation"
+        url: /projects/home-automation/
+      - title: "FPGA"
+        url: /projects/fpga/
+      - title: "Personal Infrastructure"
+        url: /projects/self-hosting/
+
+  - title: "To-Do List"
+    url: /to-do-list/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Contact"
+    url: /contact/

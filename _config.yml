@@ -1,53 +1,60 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# _config.yml
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: false
 
-title: Mistakes Will Be Made
-email: lucasmarianogrigolato@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I'm Lucas Grigolato, telecommunications engineer, tech enthusiast, and amateur musician.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lucasgrigolato.com" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  grigosback
+# Make sure you have this:
+navigation:
+  main: main
 
-# Build settings
-theme: minima
+title: "Mistakes Will Be Made"
+subtitle: "Learning by doing things in the wrong way."
+description: "Learning by doing things in the wrong way."
+url: "https://lucasgrigolato.com"
+baseurl: "" # leave empty for main site
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+
+# Enable the top navigation bar
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  show_overlay_excerpt: false
+  actions:
+    - label: "Get in Touch"
+      url: "/contact/"
+
+# Author
+author:
+  name: "Lucas Grigolato"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Telecommunications Enginner / FPGA Engineer / Amateur Musician"
+  location: "Noord Brabant, The Netherlands"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/grigosback"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/lucas-grigolato/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:lucasmarianogrigolato@gmail.com"
+
+# Plugins supported by GitHub Pages
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Navigation bar (linked to _data/navigation.yml)
+include: ["_pages"]
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+timezone: Europe/Amsterdam

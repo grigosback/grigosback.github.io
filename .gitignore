@@ -1,5 +1,12 @@
-_site
-.sass-cache
+# Jekyll generated files
 .jekyll-cache
 .jekyll-metadata
-vendor
+.sass-cache
+_asset_bundler_cache
+_site
+
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
