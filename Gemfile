@@ -1,8 +1,4 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-gem "minimal-mistakes-jekyll"
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
-gem "webrick" # needed for Ruby 3
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
