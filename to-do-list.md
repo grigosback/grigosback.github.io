@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "To-Do List"
 permalink: /to-do-list/
 author_profile: true
 ---
