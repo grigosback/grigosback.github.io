@@ -12,4 +12,4 @@ I'm **Lucas Grigolato**, an Argentinian telecommunications engineer living in Th
 
 ## Why Jekyll?
 
-## Will I use of AI?
+## Will I use AI?
