@@ -10,6 +10,8 @@ I'm **Lucas Grigolato**, an Argentinian telecommunications engineer living in Th
 # About this webpage
 ## Purpose
 
+## My requirements
+
 ## Why Jekyll?
 
 ## Will I use AI?
