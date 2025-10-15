@@ -25,6 +25,13 @@ author_profile: true
 
 - SDR FPGA boards bring-up
 
+- DSP project in FPGA
+    - It's time to give some good use to my SDR boards.
+
+- Read and hack car key rolling code
+
+- Pet chip scanner with FPGA
+
 - Vibe-Renovating my office
 
 - Vibe-Choosing my car wheels
