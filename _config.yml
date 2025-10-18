@@ -12,8 +12,8 @@ navigation:
   main: main
 
 title: "Mistakes Will Be Made"
-subtitle: "Learning by doing things in the wrong way."
-description: "Learning by doing things in the wrong way."
+subtitle: "Learning by doing things the wrong way."
+description: "A website by Lucas Grigolato."
 url: "https://lucasgrigolato.com"
 baseurl: "" # leave empty for main site
 
