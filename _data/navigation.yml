@@ -5,6 +5,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Blog"
+    url: /blog/
+
   - title: "Projects"
     url: /projects/
     children:
@@ -18,5 +21,30 @@ main:
   - title: "To-Do List"
     url: /to-do-list/
 
-  - title: "Blog"
-    url: /blog/
+index:
+  - title: About this webpage
+    children:
+      - title: "Its purpose"
+        url: /about/#its-purpose
+      - title: "Why “Mistakes Will Be Made”?"
+        url: /about/#why-mistakes-will-be-made
+      - title: "My requirements"
+        url: /about/#my-requirements
+      - title: "Why Jekyll?"
+        url: /about/#why-jekyll
+      - title: "Will I use AI?"
+        url: /about/#will-i-use-ai
+
+  - title: Projects
+    children:
+      - title: "Home Automation"
+        url: /projects/home-automation/
+      - title: "Home Network"
+        url: /projects/home-network/
+      - title: "To-Do List"
+        url: /to-do-list/
+
+  - title: Blog entries
+    children:
+      - title: "Welcome to my new site"
+        url: /2025/10/08/welcome.html

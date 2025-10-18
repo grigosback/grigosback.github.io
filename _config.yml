@@ -6,11 +6,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "index"
   - scope:
       path: ""
       type: posts
     values:
       author_profile: true
+      sidebar:
+        nav: "index"
 
 # Make sure you have this:
 navigation:
