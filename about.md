@@ -4,8 +4,32 @@ title: "About myself"
 permalink: /about/
 ---
 
-I'm **Lucas Grigolato**, an Argentinian telecommunications engineer living in The Netherlands.
-If you are a recruiter, you can download my CV from [here](https://github.com/grigosback/cv-resume/blob/master/cv_eng/lgrigolato_cv_eng.pdf).
+## My first years
+I'm **Lucas Grigolato**, I'm 35 years old and I'm from Argentina but currently (and, hopefully, permanently) living in The Netherlands. In 2020 I graduated from [Instituto Balseiro](https://www.ib.edu.ar/) as a Telecommunications Engineer, and I've been working as an FPGA Engineer specialized in telecommunications projects since then.
+
+My passion for technology started as a kid. I remember being 5 or 6 years old and being completely fascinated by every device that had buttons and screens on it. But the inflection point in my life was when my mother made the great choice of buying our first desktop computer, the **Acer Aspire 3000**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KJZbYtMuU1I?si=nTzOuY3f9UwgbQFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I remember every hardware specification of that computer:
+- Pentium 1 - 133 MHz
+- 32 MB RAM
+- 2 GB HDD
+- Windows 95
+- Integrated modem
+- Sound Blaster 16-bit audio board
+
+I also have a great memory of the first time we powered it on, and my mother tried to use the mouse as a remote control.
+
+We kept it for 12 years (1996-2008), and it helped me develop a very good intuition about how computers and software worked by breaking my Windows installation and troubleshooting it multiple times to fix it. When I got bored of playing the same games, I started analyzing every `.exe` file to find every hidden feature of the OS.
+
+In some way, when I put my hands on the mouse and keyboard for the first time, my destiny became linked to engineering, and it didn't take too long for my mother to realize that I was going to study engineering in the future, even though that future was still 10 years away. What nobody knew at the moment, not even me, was which one of the wide spectrum of engineering careers I was going to pick.
+
+## My university career
+
+
+# CV
+If you are a recruiter, you can download the latest version of my CV from [here](https://github.com/grigosback/cv-resume/blob/master/cv_eng/lgrigolato_cv_eng.pdf).
 
 # About this webpage
 ## Its purpose

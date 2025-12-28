@@ -22,6 +22,10 @@ main:
     url: /to-do-list/
 
 index:
+  - title: About myself
+    children:
+      - title: "CV"
+        url: /about/#cv
   - title: About this webpage
     children:
       - title: "Its purpose"
