@@ -8,15 +8,11 @@ main:
   - title: "Blog"
     url: /blog/
 
+  - title: "HLS"
+    url: /hls/
+
   - title: "Projects"
     url: /projects/
-    children:
-      - title: "Home Automation"
-        url: /projects/home-automation/
-      - title: "FPGA"
-        url: /projects/fpga/
-      - title: "Personal Infrastructure"
-        url: /projects/self-hosting/
 
   - title: "To-Do List"
     url: /to-do-list/
@@ -26,14 +22,16 @@ index:
     children:
       - title: "CV"
         url: /about/#cv
+      - title: "My first years"
+        url: /about/#my-first-years
+      - title: "My university career"
+        url: /about/#my-university-career
   - title: About this webpage
     children:
       - title: "Its purpose"
         url: /about/#its-purpose
       - title: "Why “Mistakes Will Be Made”?"
         url: /about/#why-mistakes-will-be-made
-      - title: "My requirements"
-        url: /about/#my-requirements
       - title: "Why Jekyll?"
         url: /about/#why-jekyll
       - title: "Will I use AI?"

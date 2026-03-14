@@ -6,9 +6,9 @@ permalink: /projects/
 
 ## 🔧 FPGA
 
-## My current hardware
+### [High-Level Synthesis (HLS)]({% link hls.md %})
 
-### High-Level Synthesis (HLS)
+### My current hardware
 
 ### Digital Signal Processing
 

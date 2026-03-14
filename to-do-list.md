@@ -18,19 +18,15 @@ permalink: /to-do-list/
     - This project has [already started](https://github.com/DiegoRosales/hls_examples) and it's about to finish, I'll update its status in the coming days and add an entry to the blog.
 - Ring Doorbell light show
     - I'm tired of missing deliveries because I don’t hear the doorbell. So why not make a light show throughout the entire house every time DHL rings it?
-
 - AI project using FPGA
     - Because if your webpage doesn’t have something related to AI in 2025, then you’re doing something wrong.
-
 - SDR FPGA boards bring-up
-
 - DSP project in FPGA
     - It's time to give some good use to my SDR boards.
-
+    - Multi-string guitar tuner
+    - PLL implementation in FPGA
+    - FSK modem with microphone and speaker
 - Read and hack car key rolling code
-
 - Pet chip scanner with FPGA
-
 - Vibe-Renovating my office
-
 - Vibe-Choosing my car wheels

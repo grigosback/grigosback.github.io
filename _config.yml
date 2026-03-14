@@ -6,6 +6,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      mathjax: true
       sidebar:
         nav: "index"
   - scope:
@@ -13,6 +14,7 @@ defaults:
       type: posts
     values:
       author_profile: true
+      mathjax: true
       sidebar:
         nav: "index"
 
@@ -26,6 +28,7 @@ description: "A website by Lucas Grigolato."
 url: "https://lucasgrigolato.com"
 baseurl: "" # leave empty for main site
 
+markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "dark"
 

@@ -2,7 +2,18 @@
 layout: single
 title: "About myself"
 permalink: /about/
+mathjax: true
+gallery:
+  - url: /assets/images/about/linkedin_chatgpt_0.webp
+    image_path: /assets/images/about/linkedin_chatgpt_0.webp
+    alt: "Typical LinkedIn post"
+  - url: /assets/images/about/linkedin_chatgpt_1.webp
+    image_path: /assets/images/about/linkedin_chatgpt_1.webp
+    alt: "Another typical LinkedIn post"
 ---
+
+## CV
+If you are a recruiter, you can download the latest version of my CV from [here](https://github.com/grigosback/cv-resume/blob/master/cv_eng/lgrigolato_cv_eng.pdf).
 
 ## My first years
 I'm **Lucas Grigolato**, I'm 35 years old and I'm from Argentina but currently (and, hopefully, permanently) living in The Netherlands. In 2020 I graduated from [Instituto Balseiro](https://www.ib.edu.ar/) as a Telecommunications Engineer, and I've been working as an FPGA Engineer specialized in telecommunications projects since then.
@@ -27,10 +38,6 @@ In some way, when I put my hands on the mouse and keyboard for the first time, m
 
 ## My university career
 
-
-# CV
-If you are a recruiter, you can download the latest version of my CV from [here](https://github.com/grigosback/cv-resume/blob/master/cv_eng/lgrigolato_cv_eng.pdf).
-
 # About this webpage
 ## Its purpose
 I wanted to have a place where I could store and publicly display all the projects I've done, am currently doing, and plan to do in the most organized and easy-to-read way possible, without having to become a web developer. Of course, my [GitHub profile](https://github.com/grigosback)
@@ -49,8 +56,23 @@ Perhaps it's not the best personal brand, after all, why would anyone hire someo
 
 When I was in university, I used to say, _"the best way to learn something is to see it corrected in red on a final exam"_. That idea also applies here. In the industry, there aren't many opportunities to make errors, because mistakes there can cost a lot of money. Fortunately, that's not the case here, so I can take advantage of that luxury to experiment and grow.
 
-## My requirements
-
 ## Why Jekyll?
+When the idea of creating this webpage came to my mind, I started thinking about what I wanted to do with it. I had a few requirements in mind:
+
+- It has to be modular, meaning that I can set the webpage style once and then just add posts without having to worry about formatting each one of them.
+- It has to be easy to use, meaning that I can create a new post and publish it without having to become a frontend developer.
+- If possible, it should be possible to host it for free, so I started looking for free hosting options.
+- It has to have support for Markdown and $$\LaTeX$$ for math formulas.
+
+I didn't think something so magical existed. But after asking ChatGPT and talking to a friend, I found out that Jekyll was exactly what I was looking for, as it ticks all the boxes. And the best part is that it's open source and free to use.
+
+Now that I had the tool, I needed to learn how to use it. After a quick investigation I found that there are a ton of pre-made templates that are available for free. So, after clicking "Next page" several times, I found one that I liked, and it's called "Minimal Mistakes", which kind of matches the name of the webpage.
 
 ## Will I use AI?
+Will I use AI for this webpage and the projects I will develop? Of course! But I want to keep its use to the bare minimum.
+
+Regarding the content of the webpage, I don't want the posts to look like a wall of text written by a clanker, full of emojis and these "em-dashes" that mysteriously started to populate every LinkedIn post after ChatGPT was released and that I don't even know how to insert using the keyboard. I want these posts to sound like me. But at the same time I don't want my lack of English knowledge to be an impediment in the process of transmitting my ideas, so I'll use AI to help me with the grammar and the structure of the sentences when I don't know how to express myself correctly.
+
+{% include gallery caption="Some typical LinkedIn posts written after 2023, extracted from the subreddit [r/LinkedInLunatics](https://www.reddit.com/r/LinkedInLunatics/)" %}
+
+If I use it too much for development tasks, I'm afraid that I will end up not learning anything. Asking your favorite AI agent how to do something is a beautiful shortcut that saves you a lot of time thinking and allows you to focus on getting things to work, but in the end it's a bit similar to checking the solution to an exercise in a solution manual. And, at least for me, the only way to learn how to do something is to wrestle with problems, get frustrated while **doing things the wrong way** for long enough, and allow my brain to generate the necessary neural connections to install the new knowledge until I finally do it right.
