@@ -38,6 +38,8 @@ In some way, when I put my hands on the mouse and keyboard for the first time, m
 
 ## My university career
 
+(To be written...)
+
 # About this webpage
 ## Its purpose
 I wanted to have a place where I could store and publicly display all the projects I've done, am currently doing, and plan to do in the most organized and easy-to-read way possible, without having to become a web developer. Of course, my [GitHub profile](https://github.com/grigosback)
