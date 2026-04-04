@@ -14,6 +14,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Hobbies"
+    url: /hobbies/
+
   - title: "To-Do List"
     url: /to-do-list/
 
@@ -50,3 +53,10 @@ index:
     children:
       - title: "Welcome to my new site"
         url: /2025/10/08/welcome.html
+
+  - title: Hobbies
+    children:
+      - title: "Music"
+        url: /hobbies/#music
+      - title: "Photography"
+        url: /hobbies/#photography

@@ -10,3 +10,4 @@ _site
 .bundle
 Gemfile.lock
 **/vendor/bundle
+**/tmp
