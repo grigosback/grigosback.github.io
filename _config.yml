@@ -7,6 +7,7 @@ defaults:
       layout: single
       author_profile: true
       mathjax: true
+      comments: true
       sidebar:
         nav: "index"
   - scope:
@@ -15,6 +16,7 @@ defaults:
     values:
       author_profile: true
       mathjax: true
+      comments: true
       sidebar:
         nav: "index"
 
@@ -27,6 +29,7 @@ subtitle: "Learning by doing things the wrong way."
 description: "A website by Lucas Grigolato."
 url: "https://lucasgrigolato.com"
 baseurl: "" # leave empty for main site
+repository: "grigosback/grigosback.github.io" 
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
@@ -81,3 +84,20 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-SQN1062YXW"
+
+# Comments
+comments:
+  provider: "giscus"
+  giscus:
+    repo: "grigosback/grigosback.github.io" # repository name
+    repo_id: "R_kgDOP-Np9Q"                 # Get this from giscus.app
+    category_name: "Comments"               # Create a category in GitHub Discussions and name it here
+    category_id: "DIC_kwDOP-Np9c4C6GZo"     # Get this from giscus.app
+    discussion_term: "pathname"
+    strict: "0"
+    reactions_enabled: "1"
+    emit_metadata: "0"
+    input_position: "bottom"
+    theme: "transparent_dark" # since you use a dark skin
+    lang: "en"
+    loading: "lazy"
