@@ -75,3 +75,9 @@ timezone: Europe/Amsterdam
 
 # Breadcrumbs
 breadcrumbs: true
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-SQN1062YXW"
