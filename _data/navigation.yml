@@ -17,6 +17,9 @@ main:
   - title: "Hobbies"
     url: /hobbies/
 
+  - title: "Instituto Balseiro"
+    url: /balseiro/
+
   - title: "To-Do List"
     url: /to-do-list/
 
