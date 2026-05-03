@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Entré a estudiar al Instituto Balseiro y te lo muestro"
+title: "Instituto Balseiro"
 permalink: /balseiro/
 gallery_0:
   - url: /assets/images/balseiro/3E1.webp
