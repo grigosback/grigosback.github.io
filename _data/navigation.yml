@@ -63,3 +63,14 @@ index:
         url: /hobbies/#music
       - title: "Photography"
         url: /hobbies/#photography
+
+  - title: Instituto Balseiro
+    children:
+      - title: "Índice"
+        url: /balseiro/#índice
+      - title: "Parte 1"
+        url: /balseiro/#parte-1-1
+      - title: "Parte 2"
+        url: /balseiro/#parte-2-1
+      - title: "Actualización 2026"
+        url: /balseiro/#actualización-2026-1
