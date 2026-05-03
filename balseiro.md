@@ -777,7 +777,7 @@ Pueden encontrar la playlist completa en [este link](https://www.youtube.com/pla
 # Actualización 2026
 
 ## ¿Cómo terminó mi experiencia en el IB?
-Si llegaron hasta acá probablemente ya sepan que el 21 de diciembre de 2020, después de muchos años de carrera, me gradué en el Instituto Balseiro como Ingeniero en Telecomunicaciones al presentar mi tesis "Conformación digital de haz para recepción de señales satelitales", bajo la dirección del Dr. Santiago Hernandez y el Ing. Nicolás Catalano, la cual pueden leer completa [aquí](https://github.com/grigosback/digital-beamforming/blob/master/Tesis/PI_Grigolato.pdf). Estos fueron los agradecimientos que dediqué al final de la misma:
+Si llegaron hasta acá probablemente ya sepan que el 21 de diciembre de 2020, después de muchos años de carrera, me gradué en el Instituto Balseiro como Ingeniero en Telecomunicaciones al presentar mi tesis "Conformación digital de haz para recepción de señales satelitales", bajo la dirección del Dr. Santiago Hernandez y el Ing. Nicolás Catalano, la cual pueden leer completa [aquí](https://web.archive.org/web/20230609223437/https://ricabib.cab.cnea.gov.ar/909/). Estos fueron los agradecimientos que dediqué al final de la misma:
 
 {% include gallery id="gallery_19" caption="Agradecimientos de mi tesis de grado." %}
 
