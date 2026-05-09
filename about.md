@@ -42,8 +42,7 @@ In some way, when I put my hands on the mouse and keyboard for the first time, m
 
 # About this webpage
 ## Its purpose
-I wanted to have a place where I could store and publicly display all the projects I've done, am currently doing, and plan to do in the most organized and easy-to-read way possible, without having to become a web developer. Of course, my [GitHub profile](https://github.com/grigosback)
- was a good start, but I didn't want to only show code without context. I also wanted to share a bit about my thinking during the decision-making process, not only for the public, but also for myself, in case I ever want to understand why I did something a certain way in the future.
+I wanted to have a place where I could store and publicly display all the projects I've done, am currently doing, and plan to do in the most organized and easy-to-read way possible, without having to become a web developer. Of course, my [GitHub profile](https://github.com/grigosback) was a good start, but I didn't want to only show code without context. I also wanted to share a bit about my thinking during the decision-making process, not only for the public, but also for myself, in case I ever want to understand why I did something a certain way in the future.
 
 Although the theme of this website will be heavily related to tech, not everything I do in my free time involves coding. I needed a place where I could also showcase my tech projects that don't necessarily involve programming, like [how I'm using Home Assistant to automate my house]({% link _pages/projects/home-automation.md %}) or [how I built my home network after my girlfriend and I moved to our new house]({% link _pages/projects/home-network.md %}).
 
@@ -61,20 +60,26 @@ When I was in university, I used to say, _"the best way to learn something is to
 ## Why Jekyll?
 When the idea of creating this webpage came to my mind, I started thinking about what I wanted to do with it. I had a few requirements in mind:
 
-- It has to be modular, meaning that I can set the webpage style once and then just add posts without having to worry about formatting each one of them.
-- It has to be easy to use, meaning that I can create a new post and publish it without having to become a frontend developer.
-- If possible, it should be possible to host it for free, so I started looking for free hosting options.
-- It has to have support for Markdown and $$\LaTeX$$ for math formulas.
+- It had to be modular, meaning that I could set the webpage style once and then just add posts without having to worry about formatting each one of them.
+- It had to be easy to use, meaning that I could create a new post and publish it without having to become a frontend developer.
+- I wanted to be able to host it for free and avoid depending on any provider that could shut down anytime without notice (I already lost some great posts that were hosted in [Taringa!](https://taringa.net/)).
+- It had to have support for Markdown and $$\LaTeX$$ for math formulas.
 
-I didn't think something so magical existed. But after asking ChatGPT and talking to a friend, I found out that Jekyll was exactly what I was looking for, as it ticks all the boxes. And the best part is that it's open source and free to use.
+I didn't think something so magical existed. But after asking ChatGPT and talking to a friend, I found out that Jekyll was exactly what I was looking for, as it ticks all the boxes. And the best part is that it's open source and free to use, and with a great community behind. It also has the ability to easily run it locally or hosted for free on [GitHub Pages](https://pages.github.com/). Of course, this is not exactly "provider-free" as I put in the requirements, but in the remote case that GitHub doesn't exist anymore, I'll still have the source code locally and I'll be able to move it to another provider or host the entire website by myself.
 
-Now that I had the tool, I needed to learn how to use it. After a quick investigation I found that there are a ton of pre-made templates that are available for free. So, after clicking "Next page" several times, I found one that I liked, and it's called "Minimal Mistakes", which kind of matches the name of the webpage.
+Now that I had the tool, I needed to learn how to use it. After a quick investigation I found that there are a ton of pre-made templates that are available for free. So, after clicking "Next page" several times, I found one that I liked, and it's called ["Minimal Mistakes"](https://mmistakes.github.io/minimal-mistakes/), which kind of matches the name of the webpage.
 
 ## Will I use AI?
 Will I use AI for this webpage and the projects I will develop? Of course! But I want to keep its use to the bare minimum.
 
-Regarding the content of the webpage, I don't want the posts to look like a wall of text written by a clanker, full of emojis and these "em-dashes" that mysteriously started to populate every LinkedIn post after ChatGPT was released and that I don't even know how to insert using the keyboard. I want these posts to sound like me. But at the same time I don't want my lack of English knowledge to be an impediment in the process of transmitting my ideas, so I'll use AI to help me with the grammar and the structure of the sentences when I don't know how to express myself correctly.
+Regarding the content of the webpage, I will illustrate my opinions about the use of AI in writing posts with an example.
+
+Since the release of ChatGPT, every post in LinkedIn looks exactly the same: walls of text, perfectly structured, with excellent grammar and punctuation, full of bullets and short sentences, with a lot of empty lines between paragraphs and full of emojis and these "em-dashes" that I don't even know how to insert using the keyboard, but that mysteriously started to populate the entire internet since 2023.
 
 {% include gallery caption="Some typical LinkedIn posts written after 2023, extracted from the subreddit [r/LinkedInLunatics](https://www.reddit.com/r/LinkedInLunatics/)" %}
+
+I refuse the idea of writing posts that sound like a [clanker](https://starwars.fandom.com/wiki/Clanker), I want these posts to sound like me. But at the same time I don't want my lack of English knowledge to be an impediment in the process of transmitting my ideas, so I'll use AI to help me with the grammar and the structure of the sentences when I don't know how to express myself correctly.
+
+{% include figure image_path="/assets/images/about/clanker.webp" alt="A clanker, as shown for the first time in Start Wars Episode I: The Phantom Menace." caption="A clanker, as shown for the first time in Start Wars Episode I: The Phantom Menace." %}
 
 If I use it too much for development tasks, I'm afraid that I will end up not learning anything. Asking your favorite AI agent how to do something is a beautiful shortcut that saves you a lot of time thinking and allows you to focus on getting things to work, but in the end it's a bit similar to checking the solution to an exercise in a solution manual. And, at least for me, the only way to learn how to do something is to wrestle with problems, get frustrated while **doing things the wrong way** for long enough, and allow my brain to generate the necessary neural connections to install the new knowledge until I finally do it right.
