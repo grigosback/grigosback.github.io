@@ -16,7 +16,7 @@ gallery:
 If you are a recruiter, you can download the latest version of my CV from [here](https://github.com/grigosback/cv-resume/blob/master/cv_eng/lgrigolato_cv_eng.pdf).
 
 ## My first years
-I'm **Lucas Grigolato**, I'm 35 years old and I'm from Argentina but currently (and, hopefully, permanently) living in The Netherlands. In 2020 I graduated from [Instituto Balseiro](https://www.ib.edu.ar/) as a Telecommunications Engineer, and I've been working as an FPGA Engineer specialized in telecommunications projects since then.
+I'm **Lucas Grigolato**, I'm 35 years old and I'm from Argentina but currently (and, hopefully, permanently) living in The Netherlands. In 2020 I graduated from [Instituto Balseiro](https://www.ib.edu.ar/) as a Telecommunications Engineer, and I've been working as an Digital Design and Embedded Engineer specialized in telecommunications projects since then.
 
 My passion for technology started as a kid. I remember being 5 or 6 years old and being completely fascinated by every device that had buttons and screens on it. But the inflection point in my life was when my mother made the great choice of buying our first desktop computer, the **Acer Aspire 3000**.
 
