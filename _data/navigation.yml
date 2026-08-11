@@ -27,7 +27,7 @@ index:
   - title: About myself
     children:
       - title: "CV"
-        url: /about/#cv
+        url: /cv
       - title: "My first years"
         url: /about/#my-first-years
       - title: "My university career"

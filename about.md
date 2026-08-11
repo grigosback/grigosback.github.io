@@ -13,7 +13,7 @@ gallery:
 ---
 
 ## CV
-If you are a recruiter, you can download the latest version of my CV from [here](/assets/files/lgrigolato_cv_eng.pdf).
+If you are a recruiter, you can download the latest version of my CV from [here](/cv).
 
 ## My first years
 I'm **Lucas Grigolato**, I'm 35 years old and I'm from Argentina but currently (and, hopefully, permanently) living in The Netherlands. In 2020 I graduated from [Instituto Balseiro](https://www.ib.edu.ar/) as a Telecommunications Engineer, and I've been working as an Digital Design and Embedded Engineer specialized in telecommunications projects since then.
